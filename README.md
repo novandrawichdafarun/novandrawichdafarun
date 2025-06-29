@@ -1,5 +1,14 @@
-#### 💫 About Me:
-## Hello! I'm Novandra Wichda Farun
+![Header](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&customColorList=2&t&section=header)
+
+<h1 align="center"><b>Hi, I'm Vandra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFFFF&background=000000&center=true&width=435&lines=Aspiring+Full-Stack+Developer+" alt="Typing SVG" /></a>
+</div>
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I am currently pursuing a degree in Information Systems at Nahdlatul Ulama University Surabaya. I am expanding my knowledge in both Web Development and Software Development. I love to learn and build something new, productive, innovative and creative.
 
 ![](https://komarev.com/ghpvc/?username=novandrawichdafarun&color=red)
 
@@ -10,24 +19,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs,react,php,mysql,laravel,java,git,figma,arduino&theme=light&perline=10)](https://skillicons.dev)
 
 #### 📊 GitHub Stats:
-![vandra GitHub stats](https://github-readme-stats.vercel.app/api?username=novandrawichdafarun&show_icons=true&theme=radical)<br/>
-![vandra GitHub stats](https://nirzak-streak-stats.vercel.app/?user=novandrawichdafarun&theme=dark&hide_border=false)<br/>
-![vandra GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=novandrawichdafarun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://streak-stats.demolab.com?user=novandrawichdafarun&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=novandrawichdafarun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novandrawichdafarun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+
 
 ##### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=novandrawichdafarun&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-###### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=novandrawichdafarun&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-<!-- ![](https://komarev.com/ghpvc/?username=novandrawichdafarun&color=red)
-
-##### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs,react,php,mysql,laravel,java,git,figma,arduino&theme=light&perline=10)](https://skillicons.dev)
-
-##### Connect with me
-
-![https://instagram.com](https://skillicons.dev/icons?i=instagram&theme=light) ![https://linkedin.com](https://skillicons.dev/icons?i=linkedin&theme=light)
-
-##### My Github Stats
-![vandra GitHub stats](https://github-readme-stats.vercel.app/api?username=novandrawichdafarun&show_icons=true&theme=radical) -->
