@@ -17,6 +17,7 @@ I am currently pursuing a degree in Information Systems at Nahdlatul Ulama Unive
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs,react,php,mysql,laravel,java,git,figma,arduino&theme=light&perline=10)](https://skillicons.dev)
 
 ###
+
 ###
 
 <h4 align="center"> Github Status </h4>
@@ -25,12 +26,12 @@ I am currently pursuing a degree in Information Systems at Nahdlatul Ulama Unive
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novandrawichdafarun&locale=en&hide_title=true&layout=compact&card_width=300&langs_count=7&theme=radical&hide_border=false" height="135" alt="languages graph"  />
   </div>
 
+  <br>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=novandrawichdafarun.novandrawichdafarun&left_color=indigo&right_color=cornflowerblue"  />
 </div>
 
-###
-###
 
 <br>
 
