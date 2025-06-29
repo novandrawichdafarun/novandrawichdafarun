@@ -20,17 +20,33 @@ I am currently pursuing a degree in Information Systems at Nahdlatul Ulama Unive
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs,react,php,mysql,laravel,java,git,figma,arduino&theme=light&perline=10)](https://skillicons.dev)
 
-<h4 align="center"> Status  </h4>
+###
+###
+
+<h4 align="center"> Github Status </h4>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=novandrawichdafarun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="135" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novandrawichdafarun&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false" height="135" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novandrawichdafarun&locale=en&hide_title=true&layout=compact&card_width=300&langs_count=7&theme=radical&hide_border=false" height="135" alt="languages graph"  />
   </div>
 
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=novandrawichdafarun&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-  </div>
+###
+###
 
 
 ##### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=novandrawichdafarun&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+___
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/snake.svg" alt="Snake animation" />
+
+###
