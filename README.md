@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hi, I'm Vandra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
----
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFFFF&background=none&center=true&width=435&lines=Aspiring+Full-Stack+Developer+" alt="Typing SVG" /></a>
 </div>
@@ -48,5 +46,3 @@ I am currently pursuing a degree in Information Systems at Nahdlatul Ulama Unive
 <img src="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/snake.svg" alt="Snake animation" />
 
 ###
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&customColorList=2&t&section=footer)
