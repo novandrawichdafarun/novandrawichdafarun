@@ -40,6 +40,7 @@ I am currently pursuing a degree in Information Systems at Nahdlatul Ulama Unive
 </picture>
 
 <br>
+
 ###
 
 <img src="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/snake.svg" alt="Snake animation" />
