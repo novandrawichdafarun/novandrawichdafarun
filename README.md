@@ -32,17 +32,10 @@ I am currently pursuing a degree in Information Systems at Nahdlatul Ulama Unive
 ###
 ###
 
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/pacman-contribution-graph.svg">
 </picture>
-
-<br>
-
-###
-
-<img src="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/snake.svg" alt="Snake animation" />
-
-###
