@@ -33,12 +33,6 @@ I am currently pursuing a degree in Information Systems at Nahdlatul Ulama Unive
 ###
 
 
-##### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=novandrawichdafarun&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-___
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/pacman-contribution-graph.svg">
@@ -50,3 +44,5 @@ ___
 <img src="https://raw.githubusercontent.com/novandrawichdafarun/novandrawichdafarun/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&customColorList=2&t&section=footer)
