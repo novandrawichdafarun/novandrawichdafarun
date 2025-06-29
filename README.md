@@ -19,10 +19,14 @@ I am currently pursuing a degree in Information Systems at Nahdlatul Ulama Unive
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,nodejs,react,php,mysql,laravel,java,git,figma,arduino&theme=light&perline=10)](https://skillicons.dev)
 
 #### 📊 GitHub Stats:
-  <img src="https://streak-stats.demolab.com?user=novandrawichdafarun&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=novandrawichdafarun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novandrawichdafarun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-
+  <p>
+  <img src="https://streak-stats.demolab.com?user=novandrawichdafarun&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=novandrawichdafarun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> 
+  </p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novandrawichdafarun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph" /> 
+  </div>
+  
 
 ##### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=novandrawichdafarun&theme=radical&no-frame=true&no-bg=true&margin-w=4)
