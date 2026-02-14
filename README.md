@@ -24,7 +24,7 @@ I'm currently studying Information Systems at Nahdlatul Ulama University in Sura
 
 <br>
 
-<h4>🌐 Socials:</h4>
+<h3>🌐 Socials:</h3>
 <p align="center">
   <a href="https://www.instagram.com/wichdafar" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
@@ -41,16 +41,16 @@ I'm currently studying Information Systems at Nahdlatul Ulama University in Sura
 
 <br>
 
-<h4>💻 Tech Stack:</h4>
+<h3>💻 Tech Stack:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,java,python,react,nodejs,bootstrap,tailwind,mysql,mongodb,prisma,git,postman,postgresql&perline=8" alt="Tech Stack" />
 </div>
 
 <br>
 
-<h4>📊 Github Stats</h4>
+<h3>📊 Github Stats</h3>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;" align="center">
   <tr>
     <td width="50%" align="center">
       <picture>
