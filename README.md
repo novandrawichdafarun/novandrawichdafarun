@@ -61,9 +61,9 @@ I'm currently studying Information Systems at Nahdlatul Ulama University in Sura
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=novandrawichdafarun&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=novandrawichdafarun&theme=react&hide_border=true" />
-        <img alt="GitHub Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=novandrawichdafarun&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=novandrawichdafarun&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=novandrawichdafarun&theme=react&hide_border=true" />
+        <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=novandrawichdafarun&theme=react&hide_border=true" />
       </picture>
     </td>
   </tr>
