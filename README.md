@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFFFF&background=none&center=true&width=535&lines=Full-Stack+Developer+And+AI+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFFFF&background=none&center=true&width=580&lines=Full-Stack+Developer+And+AI+Engineer" alt="Typing SVG" />
   </p>
 </div>
 
@@ -20,7 +20,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
-I'm currently studying Information Systems at Nahdlatul Ulama University in Surabaya. I'm expanding my knowledge in Web Development, Software Development and Artificial Intelligence. I enjoy learning and building something new, productive, innovative, and creative.
+I'm currently studying Information Systems at Nahdlatul Ulama University in Surabaya. I'm expanding my knowledge in Web Development, Software Development, and Artificial Intelligence. I enjoy learning and building something new, productive, innovative, and creative.
 
 <br>
 
